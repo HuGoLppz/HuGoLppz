@@ -7,22 +7,9 @@
 </p>
 
 ## Sobre mí
-- Ahora mismo trabajo en **FinTrack**, una app de finanzas personales
-- Estoy aprendiendo **...**
 - Contacto: [LinkedIn](https://www.linkedin.com/in/hugolopezsanz)
 
 ## Tecnologías
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,react,git,github,vscode&perline=8" />
 </p>
-
-## 📊 Estadísticas
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
