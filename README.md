@@ -6,5 +6,5 @@
 
 ## Tecnologías
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,git,github,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,angular,git,github,vscode&perline=8" />
 </p>
