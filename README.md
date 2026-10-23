@@ -1,11 +1,6 @@
 <!-- Banner con ola animada -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hola,%20soy%20Hugo%20👋&fontSize=40&fontAlignY=35" width="100%"/>
 
-<!-- Texto que se escribe solo -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&center=true&vCenter=true&width=500&lines=Desarrollador+en+formación+🚀;Me+gusta+crear+apps+útiles;Siempre+aprendiendo+algo+nuevo" />
-</p>
-
 ## Sobre mí
 - Contacto: [LinkedIn](https://www.linkedin.com/in/hugolopezsanz)
 
