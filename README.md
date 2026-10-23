@@ -6,12 +6,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&center=true&vCenter=true&width=500&lines=Desarrollador+en+formación+🚀;Me+gusta+crear+apps+útiles;Siempre+aprendiendo+algo+nuevo" />
 </p>
 
-## 🧑‍💻 Sobre mí
-- 🔭 Ahora mismo trabajo en **FinTrack**, una app de finanzas personales
-- 🌱 Estoy aprendiendo **...**
-- 📫 Contacto: [LinkedIn](https://linkedin.com/in/TU_USUARIO)
+## Sobre mí
+- Ahora mismo trabajo en **FinTrack**, una app de finanzas personales
+- Estoy aprendiendo **...**
+- Contacto: [LinkedIn](https://www.linkedin.com/in/hugolopezsanz)
 
-## 🛠️ Tecnologías
+## Tecnologías
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,react,git,github,vscode&perline=8" />
 </p>
